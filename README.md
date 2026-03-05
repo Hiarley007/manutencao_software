@@ -20,7 +20,7 @@ Algumas das tecnologias utilizadas nas atividades:
 
 ## 👨‍💻 Autor
 **Hiarley de Morais Rabêlo**  
-Estudante de Análise e Desenvolvimento de Sistemas
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Univeritário IESB
 
 ---
 
